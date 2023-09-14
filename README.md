@@ -80,8 +80,13 @@ op
 ```
 ## Output:
 ![image](https://github.com/NITHISH74/ODD2023---Datascience---Ex-02/assets/94164665/3f50d2aa-eebe-4b7a-b72f-66ea7860d4d4)
+
+
 ![image](https://github.com/NITHISH74/ODD2023---Datascience---Ex-02/assets/94164665/d292cdb5-156c-4e84-bde4-5216418cfd6d)
+
+
 ![image](https://github.com/NITHISH74/ODD2023---Datascience---Ex-02/assets/94164665/cbd71a72-d154-4764-b767-e716baa78195)
+
 
 ![image](https://github.com/NITHISH74/ODD2023---Datascience---Ex-02/assets/94164665/dd56a0a1-b8dc-4116-8499-a351358e54d6)
 
